@@ -1,0 +1,8 @@
+pandas==2.2.3
+numpy==2.2.5
+python-dateutil==2.9.0.post0
+pytz==2025.2
+
+# Optional: only needed if connecting to Microsoft SQL Server instead of SQLite
+# pyodbc==5.2.0
+# python-dotenv==1.1.0

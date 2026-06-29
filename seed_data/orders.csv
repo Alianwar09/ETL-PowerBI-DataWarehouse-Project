@@ -1,0 +1,21 @@
+order_id,customer_id,product_id,quantity,order_date,payment_type,status,updated_at
+1,15,4,5,2021-01-27,Debit Card,Cancelled,2021-03-25
+2,16,1,2,2023-01-01,Cash on Delivery,Delivered,2023-02-25
+3,17,4,1,2021-07-08,Debit Card,Delivered,2023-03-27
+4,9,1,1,2022-09-24,Debit Card,Processing,2022-10-17
+5,20,4,5,2020-06-08,Debit Card,Delivered,2022-07-01
+6,7,3,3,2021-01-01,Cash on Delivery,Shipped,2021-01-05
+7,10,5,4,2022-06-17,Debit Card,Cancelled,2022-06-21
+8,5,1,2,2021-04-10,Credit Card,Delivered,2021-04-12
+9,11,4,1,2022-03-22,Cash on Delivery,Shipped,2022-03-25
+10,8,1,3,2021-12-05,Cash on Delivery,Processing,2021-12-10
+11,3,5,1,2022-02-15,Credit Card,Shipped,2022-02-20
+12,19,4,2,2021-05-10,Cash on Delivery,Delivered,2021-05-12
+13,12,3,1,2022-07-18,Debit Card,Shipped,2022-07-20
+14,14,5,1,2022-03-12,Debit Card,Delivered,2022-03-15
+15,4,1,1,2021-10-23,Debit Card,Cancelled,2021-11-01
+16,17,3,3,2022-09-01,Credit Card,Shipped,2022-09-03
+17,9,2,2,2021-08-16,Cash on Delivery,Shipped,2021-08-20
+18,6,4,1,2022-05-05,Credit Card,Delivered,2022-05-10
+19,15,1,2,2022-11-12,Debit Card,Cancelled,2022-11-14
+20,13,5,3,2023-01-21,Cash on Delivery,Delivered,2023-01-24

@@ -1,0 +1,21 @@
+﻿product_id,product_name,category_name,price,stock
+1,Monitor,Stationery,150,100
+2,Laptop,Electronics,150,15
+3,Desk Chair,Electronics,10,30
+4,Notebook,Furniture,150,7
+5,Monitor,Furniture,1200,15
+6,Laptop,Electronics,1200,10
+7,Desk Chair,Electronics,150,5
+8,Notebook,Stationery,10,50
+9,Headphones,Electronics,85,20
+10,Monitor,Stationery,150,5
+11,Desk Chair,Electronics,150,15
+12,Laptop,Electronics,1000,25
+13,Monitor,Stationery,150,100
+14,Headphones,Electronics,85,25
+15,Headphones,Electronics,85,30
+16,Laptop,Electronics,1200,10
+17,Desk Chair,Furniture,150,10
+18,Notebook,Stationery,10,80
+19,Monitor,Electronics,400,7
+20,Headphones,Electronics,85,50
